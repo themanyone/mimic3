@@ -1,6 +1,5 @@
-# ⚠️ This project is no longer actively maintained
-
-Mycroft Mimic 3 is no longer maintained and may not work on your computer anymore. [Piper TTS](https://github.com/rhasspy/piper) is the spiritual successor to Mimic 3. 
+An independent & updated Python 3.13+ fork of Mycroft's fast local neural text to speech engine.
+Not affiliated with [Piper TTS](https://github.com/rhasspy/piper), another alternative you might try.
 
 # Mimic 3
 
