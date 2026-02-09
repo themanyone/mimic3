@@ -76,8 +76,15 @@ pip3 install mycroft-mimic3-tts[all]
 Now you can run:
 
 ``` sh
-mimic3 'Hello world.' | aplay
+mimic3 'Hello world.'
 ```
+
+**Auto complete.**
+```sh
+source mimic3_completions.sh
+```
+
+Now you can type `mimic3 --voice [tab][tab] --speaker [tab][tab] to auto complete voices and speakers.
 
 Use `mimic3-server` and `mimic3 --remote ...` for repeated usage (much faster).
 
